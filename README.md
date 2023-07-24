@@ -21,7 +21,8 @@ This repository contains a simple implementation of a RESTful API for sending em
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/email-rest-api-send.git
+
+git clone https://github.com/CodeWithKaushal/Email_Rest_API.git
 cd email-rest-api-send
 ```
 
